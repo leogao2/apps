@@ -1,6 +1,6 @@
 # Used for evaluation and some common for train too
 numpy
-pyext>=0.7
+git+https://github.com/clefourrier/pyext
 sacrebleu # we used 1.5.1
 sacremoses # we used 0.0.45
 torch>=1.7
